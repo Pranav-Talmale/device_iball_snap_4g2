@@ -1,0 +1,15 @@
+# Display (Source: ProjectConfig.mk)
+ro.sf.lcd_density=210
+ro.opengles.version=196608
+
+# MediaTek Hardware Features
+ro.mediatek.platform=MT6735
+ro.mediatek.version.release=alps-mp-n0.mp1
+ro.mtk_cam_ion_support=1
+ro.mtk_aal_support=0
+ro.mtk_pq_support=2
+ro.mtk_miravision_support=1
+
+# USB (Source: MIKI_USB_...)
+sys.usb.vid=0x0E8D
+# MTK default VID. Change if iBall uses a custom one (check lsusb on PC)
