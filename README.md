@@ -86,3 +86,9 @@ mka recoveryimage
 
 ## Device Picture
 ![iBall Slide Snap 4G2](https://images.fonearena.com/photos/albums/userpics/10004/4~174.jpg)
+
+## Firmware links
+You can find link to the firmware from the below google drive link:
+```
+https://drive.google.com/drive/folders/12iRsIU7uvILns4LKGSdeETQ_eUte73_J?usp=sharing
+```
